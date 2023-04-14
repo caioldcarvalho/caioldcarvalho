@@ -6,11 +6,12 @@
 
 ### My daily used superpowers 🦸 are:
 <div>
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="90"/>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="html" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="60"/>&nbsp;
-<img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="60"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="60"/>
 </div>
 
 ### Other superpowers:
@@ -38,7 +39,9 @@
 - 🦙 I really do love all animals
 - ㊗️ Love studying languages
 - 🛠️ Love constructed languages
-- 🌎 Currently obsessed with hardcore worlbuilding
+- 🌎 Currently obsessed with hardcore worldbuilding
+- 🕊️ FOSS whenever and wherever possible
+- 🔷 I use Arch btw ;)
 
 Feel free to fork whatever you find interesting in my profile 😉 (unless explicitly instructed otherwise)
  
