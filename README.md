@@ -8,16 +8,17 @@
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="90"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="70"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="60"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="60"/>
 </div>
 
 ### Other superpowers:
-<div>
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="60"/>
-</div>
+- Python 🐍
+- WSL 🪟
+- SQL 🗃️
 
 ### Studying/Roadmap
 <div>
