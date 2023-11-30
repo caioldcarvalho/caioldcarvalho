@@ -27,8 +27,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="60">&nbsp;
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=caioldcarvalho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
 ## About Me 😁
 
 #### 💼 Work and Studies 📖
