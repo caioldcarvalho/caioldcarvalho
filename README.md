@@ -4,7 +4,7 @@
 
 ## Skills 🚀
 
-### My daily used superpowers 🦸 are:
+### My daily used tech stack is:
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="90"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="70"/>
@@ -15,7 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="60"/>
 </div>
 
-### Other superpowers:
+### Other skills:
 - Python 🐍
 - WSL 🪟
 - SQL 🗃️
@@ -36,13 +36,7 @@
 - 🖥️ Working as Full Stack Web Developer at GTA Multimídia
 - 📒 Studying MBA in Data Security
 
-#### 🌲Life and Hobbies 🗺️
-- 🦙 I really do love all animals
-- ㊗️ Love studying languages
-- 🛠️ Love constructed languages
-- 🌎 Currently obsessed with hardcore worldbuilding
-- 🕊️ FOSS whenever and wherever possible
-- 🔷 I use Arch btw ;)
+➡ I am a programmer, not a frameworker.
 
 Feel free to fork whatever you find interesting in my profile 😉 (unless explicitly instructed otherwise)
  
