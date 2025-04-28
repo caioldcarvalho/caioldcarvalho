@@ -33,8 +33,7 @@
 - 🎓 Graduated in **linguistics** at UFMG
 - 🧑‍💻 IT Technician at CEFET-MG
 - 🧑‍💼 Professional Product Manager at DNC
-- 🖥️ Working as Full Stack Web Developer at GTA Multimídia
-- 📒 Studying MBA in Data Security
+- 🖥️ Working as Software Engineer at Sourei
 
 ➡ I am a programmer, not a frameworker.
 
